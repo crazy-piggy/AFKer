@@ -1,0 +1,2 @@
+# AFKer
+AFK in Minecraft
